@@ -25,7 +25,7 @@ Set up CRC account, be able to access a front end machine.
 
 ### Week 2:
 
-Be familiar with Jupyter notebook, play with code (The best way to learn Python!) illustrated in lesson 1 through 5 in Python Scripting for Computational Molecular Science workshop.
+Be familiar with Jupyter notebook, play with code (The best way to learn Python!) illustrated in lesson 1 through 5 in Python Scripting for Computational Molecular Science workshop, and upload your ipynb notebook to this folder.
 
 ## Meeting Information
 
