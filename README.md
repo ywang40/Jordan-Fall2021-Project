@@ -31,4 +31,4 @@ Be familiar with Jupyter notebook, play with code (The best way to learn Python!
 
 We can update this as the semester goes along, but we can start here.
 - Weekly meetings between Jordan and Yujia via Zoom or in person.
-- Schneider Group touchbase meetings: Mondays at 9:30 AM EDT
+- Schneider Group touchbase meetings: Mondays at 9:30 AM via Zoom.
