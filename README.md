@@ -28,11 +28,15 @@ This is the Git repo you will be using to do your research and share results wit
 
 ### Week 1:
 
-Set up CRC account, be able to access a front end machine.
+Set up CRC account, be able to access a front end machine, folder nevigation using terminal, install Anaconda and open Jupyter notebook on the Windows machine.
 
 ### Week 2:
 
 Be familiar with Jupyter notebook, play with code (The best way to learn Python!) illustrated in lesson 1 through 5 in Python Scripting for Computational Molecular Science workshop, and upload your ipynb notebook to this folder.
+
+### Week 3:
+
+Visulize example structures using ase gui, learn what a supercell is in periodic modeling, look into the chemistry in the "zeolite + organic structure-directing agent (OSDA)" system, use the Atoms object in ase.
 
 ## Meeting Information
 
