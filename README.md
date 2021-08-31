@@ -14,8 +14,15 @@ This is the Git repo you will be using to do your research and share results wit
     - [CRC Basic Linux Guide](https://docs.crc.nd.edu/new_user/linux_guide.html)
     - [Linux Command Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
 5. Install [Anaconda](https://www.anaconda.com/) and go through this useful python workshop: [Python Scripting for Computational Molecular Science](http://education.molssi.org/python_scripting_cms/index.html)
-6. ASE
-7. Git
+6. Setting up ASE using terminal in the Linux system
+    - Install [Anaconda](https://docs.anaconda.com/anaconda/install/linux/) using terminal
+    - Install [ASE](https://wiki.fysik.dtu.dk/ase/install.html)
+        - Ensure you have a working [pip](https://pip.pypa.io/en/stable/getting-started/)
+        - [ASE installation](https://wiki.fysik.dtu.dk/ase/install.html) using pip
+        - Add environment variables to your ~/.bashrc file
+        - Test your installation
+        - Try out [ase gui](https://wiki.fysik.dtu.dk/ase/ase/gui/gui.html) to visualize a trajectory
+8. Git
 
 ## Schedule
 
