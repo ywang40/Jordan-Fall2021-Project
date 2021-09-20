@@ -25,6 +25,7 @@ This is the Git repo you will be using to do your research and share results wit
 8. Git
     - Upload/download files from the website
     - Pull/push repositories through the command line
+    - [Configuring two-factor authentication](https://docs.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication)
     - [Creating a personal access token](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
 ## Schedule
