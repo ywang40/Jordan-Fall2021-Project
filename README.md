@@ -23,6 +23,9 @@ This is the Git repo you will be using to do your research and share results wit
         - Test your installation
         - Try out [ase gui](https://wiki.fysik.dtu.dk/ase/ase/gui/gui.html) to visualize a trajectory
 8. Git
+    - Upload/download files from the website
+    - Pull/push repositories through the command line
+    - [Creating a personal access token](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
 ## Schedule
 
@@ -36,7 +39,11 @@ Be familiar with Jupyter notebook, play with code (The best way to learn Python!
 
 ### Week 5:
 
-Visulize example structures using ase gui, learn what a supercell is in periodic modeling, look into the chemistry in the "zeolite + organic structure-directing agent (OSDA)" system, use the Atoms object in ase.
+Visulize example structures using ase gui, look into the chemistry in the "zeolite + organic structure-directing agent (OSDA)" system, read S Li. et al 2019 JPCC paper.
+
+### Week 6:
+
+Learn what a supercell is in periodic modeling, use the Atoms object in ase.
 
 ## Meeting Information
 
