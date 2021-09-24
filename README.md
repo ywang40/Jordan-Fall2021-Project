@@ -44,7 +44,7 @@ Visulize example structures using ase gui, look into the chemistry in the "zeoli
 
 ### Week 6:
 
-Learn what a supercell is in periodic modeling, use the Atoms object in ase.
+Use the Atoms object in ase in Jupyter notebook to process XDATCARs in the folder (/scratch365/ywang40/for_Jordan).
 
 ## Meeting Information
 
